@@ -11,3 +11,4 @@ Figure1_survival_vs_resval.R was used to run statistics on comparison between su
 
 Figure4_2018_vs_2022.R was used to run analysis comparing 2018 survival data to 2022 survival data.
 
+ReadsTable has the number of counts at each step of QC/QF of TagSeq data prior to WGCNA input. 
