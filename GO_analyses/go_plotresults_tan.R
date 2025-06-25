@@ -1,8 +1,6 @@
 # this is the final script in GO analysis using MWU test, as in
 # Voolstra et al PLoS ONE 2011, 6(5): e20392.
 
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
-
 ####setting data up####
 #Note: must run this script while results of GO_MWU are loaded into R
 #must run these to initiate, then can ignore...
