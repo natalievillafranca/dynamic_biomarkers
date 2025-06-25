@@ -15,7 +15,6 @@
 
 ################################################################
 # First, press command-D on mac or ctrl-shift-H in Rstudio and navigate to the directory containing scripts and input files. Then edit, mark and execute the following bits of code, one after another.
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
 
 # Edit these to match your data file names: 
 input="MAY_fishers_unmerged_hostGO_MM_tan_ASV.csv" # two columns of comma-separated values: gene id, continuous measure of significance. To perform standard GO enrichment analysis based on Fisher's exact test, use binary measure (0 or 1, i.e., either sgnificant or not).
